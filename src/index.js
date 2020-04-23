@@ -10,6 +10,7 @@ export {
   RawParser,
   renderNode,
   CompositeDecorator,
+  render
 };
 
 export default render;
